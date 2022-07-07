@@ -1,0 +1,11 @@
+1] outputs of DecisionTreeRegresion()
+            mean:                       4.186944198266788
+            Standard Deviation:         0.7437418497951219
+
+2] output of LinearRegression()
+            mean:                       5.037482786117751
+            Standard Deviation:         1.0594382405606952
+            
+3] output of RandomForestRegressor()
+            mean:                       3.34455975521526
+            Standard Deviation:         0.7050889016870453
